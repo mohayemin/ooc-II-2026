@@ -24,6 +24,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Revisiting the Basics: revisiting-the-basics.md
 
 markdown_extensions:
   - admonition
