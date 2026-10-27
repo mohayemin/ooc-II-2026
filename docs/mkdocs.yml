@@ -1,5 +1,6 @@
 site_name: Object Oriented Concepts II
 site_description: Course materials for SWE 4301
+site_url: https://mohayemin.github.io/ooc-II-2026/
 docs_dir: .
 site_dir: ../site
 
